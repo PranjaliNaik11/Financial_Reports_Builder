@@ -10,7 +10,7 @@ The datasets consist of the following columns:
 - **comp_type:** The type of industry the company belongs to. It can be "tech" for technology companies, "fmcg" for fast-moving consumer goods companies, or "real_est" for real estate companies.
 - **Year:** The year to which the company's financial information pertains.
 
-## Report Objectives
+## Report Objectives:
 
 1. Calculate the leveraged ratio.
 2. Calculate the profitability ratio.
