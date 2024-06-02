@@ -18,7 +18,7 @@ The datasets consist of the following columns:
 4. Identify the company with the highest profitability.
 5. Create a scatter plot to understand the relationship between leveraged ratio and profitability ratio.
 
-## Building the Financial Reports
+## Building the Financial Reports:
 
 ### Step 1: Data Preparation
 
