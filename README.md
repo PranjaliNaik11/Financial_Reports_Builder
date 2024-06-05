@@ -27,7 +27,7 @@ Ensure that you have the following datasets:
 - **Income Dataset:** Contains income statement information for various companies.
 - **Balance Sheet Dataset:** Contains balance sheet information for the same set of companies.
 
-### Step 2: Data Analysis
+### Step 2: Data Analysis:
 
 1. **Calculate Leveraged Ratio:** The leveraged ratio can be calculated by dividing the company's total debt by its equity. Use the balance sheet dataset to obtain the total debt and equity for each company.
    
